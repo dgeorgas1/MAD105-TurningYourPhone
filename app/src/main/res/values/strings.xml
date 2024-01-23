@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TurningYourPhone</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="editText">Enter The Image Orientation</string>
+</resources>
